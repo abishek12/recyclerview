@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Recyclerview</string>
+
+    <string-array name="pieces">
+        <item>Item one</item>
+        <item>Item two</item>
+        <item>Item three</item>
+        <item>Item four</item>
+    </string-array>
+
+    <string-array name="desc">
+        <item>This is item one.</item>
+        <item>This is item two.</item>
+        <item>This is item three.</item>
+        <item>This is item four.</item>
+    </string-array>
+
+</resources>
